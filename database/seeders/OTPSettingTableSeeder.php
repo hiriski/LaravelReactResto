@@ -8,7 +8,7 @@ use App\Enums\OTPTypeEnum;
 use Illuminate\Database\Seeder;
 use Smartisan\Settings\Facades\Settings;
 
-class OTPTableSeeder extends Seeder
+class OTPSettingTableSeeder extends Seeder
 {
     /**
      * Run the database seeds.
