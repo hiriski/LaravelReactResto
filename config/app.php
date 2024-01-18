@@ -185,4 +185,6 @@ return [
         // 'Example' => App\Facades\Example::class,
     ])->toArray(),
 
+
+    'app_frontend_url' => env('APP_FRONT_END_URL', 'http:localhost:3000'),
 ];
